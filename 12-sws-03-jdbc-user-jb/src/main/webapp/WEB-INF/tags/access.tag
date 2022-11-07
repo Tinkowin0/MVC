@@ -3,8 +3,6 @@
 
 <%@ attribute name="list" required="true" type="java.util.List" %>
 
-
-
 <%@ taglib prefix="app" tagdir="/WEB-INF/tags"%>
 <div class="card pt-4">
 	<div class="card-header">
